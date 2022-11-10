@@ -1,0 +1,39 @@
+DEBUG 2022-11-11 00:13:47,391 - Starting new HTTPS connection (1): watch.cricfree.io:443
+DEBUG 2022-11-11 00:13:48,402 - https://watch.cricfree.io:443 "GET /category/football HTTP/1.1" 200 None
+DEBUG 2022-11-11 00:13:48,700 - page fetched
+DEBUG 2022-11-11 00:13:48,722 - html values found
+DEBUG 2022-11-11 00:13:48,723 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,725 - html values found
+DEBUG 2022-11-11 00:13:48,726 - html values found
+DEBUG 2022-11-11 00:13:48,726 - html values found
+DEBUG 2022-11-11 00:13:48,726 - html values found
+DEBUG 2022-11-11 00:13:48,726 - html values found
+DEBUG 2022-11-11 00:13:48,726 - saving json data
+DEBUG 2022-11-11 00:14:00,777 - Running job Job(interval=1, unit=days, do=job, args=(), kwargs={})
+DEBUG 2022-11-11 00:14:00,779 - Starting new HTTPS connection (1): watch.cricfree.io:443
+DEBUG 2022-11-11 00:14:01,733 - https://watch.cricfree.io:443 "GET /category/football HTTP/1.1" 200 None
+DEBUG 2022-11-11 00:14:02,023 - page fetched
+DEBUG 2022-11-11 00:14:02,038 - html values found
+DEBUG 2022-11-11 00:14:02,038 - html values found
+DEBUG 2022-11-11 00:14:02,040 - html values found
+DEBUG 2022-11-11 00:14:02,040 - html values found
+DEBUG 2022-11-11 00:14:02,040 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - html values found
+DEBUG 2022-11-11 00:14:02,041 - saving json data

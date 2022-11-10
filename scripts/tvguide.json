@@ -1,0 +1,208 @@
+{
+    "soccer": {
+        "match 1": {
+            "league": "english league cup",
+            "teams": "\nmanchester united vs aston villa \n\n",
+            "time": "20:00",
+            "channels": {
+                "channel 1": "live.php?channel=sky sports football@sky sports football",
+                "channel 2": "live.php?channel=supersports premier league@supersports premier league",
+                "channel 3": "live.php?channel=sky sports football@sky sports football",
+                "channel 4": "live.php?channel=supersports premier league@supersports premier league"
+            }
+        },
+        "match 2": {
+            "league": "spanish la liga",
+            "teams": "\nreal madrid vs cadiz \n\n",
+            "time": "20:30",
+            "channels": {
+                "channel 1": "live.php?channel=supersports laliga@supersports laliga",
+                "channel 2": "live.php?channel=supersports laliga@supersports laliga"
+            }
+        },
+        "match 3": {
+            "league": "friendly international",
+            "teams": "\nunited states w vs germany w \n",
+            "time": "00:05",
+            "channels": {}
+        },
+        "match 4": {
+            "league": "australian a league",
+            "teams": "\nadelaide united vs melbourne victory \n",
+            "time": "08:45",
+            "channels": {}
+        },
+        "match 5": {
+            "league": "bundesliga 2",
+            "teams": "\nfortuna dusseldorf vs kaiserslautern \n",
+            "time": "16:30",
+            "channels": {}
+        },
+        "match 6": {
+            "league": "turkish super lig",
+            "teams": "\nankaragucu vs trabzonspor \n",
+            "time": "17:00",
+            "channels": {}
+        },
+        "match 7": {
+            "league": "turkish super lig",
+            "teams": "\nalanyaspor vs adana demirspor \n",
+            "time": "17:00",
+            "channels": {}
+        },
+        "match 8": {
+            "league": "bundesliga 2",
+            "teams": "\nholstein kiel vs hannover 96 \n",
+            "time": "17:30",
+            "channels": {}
+        },
+        "match 9": {
+            "league": "bundesliga 2",
+            "teams": "\nfortuna dusseldorf vs kaiserslautern \n",
+            "time": "17:30",
+            "channels": {}
+        },
+        "match 10": {
+            "league": "eredivisie",
+            "teams": "\ntwente vs sparta rotterdam \n",
+            "time": "19:00",
+            "channels": {}
+        },
+        "match 11": {
+            "league": "1 bundesliga",
+            "teams": "\nmonchengladbach vs borussia dortmund \n",
+            "time": "19:30",
+            "channels": {}
+        },
+        "match 12": {
+            "league": "italian serie a",
+            "teams": "\nempoli vs cremonese \n",
+            "time": "19:45",
+            "channels": {
+                "channel 1": "live.php?channel=supersports football@supersports football",
+                "channel 2": "live.php?channel=supersports football@supersports football"
+            }
+        },
+        "match 13": {
+            "league": "scottish championship",
+            "teams": "\nayr united vs hamilton academical \n",
+            "time": "19:45",
+            "channels": {}
+        },
+        "match 14": {
+            "league": "english championship",
+            "teams": "\nbirmingham city vs sunderland \n",
+            "time": "20:00",
+            "channels": {
+                "channel 1": "live.php?channel=sky sports football@sky sports football",
+                "channel 2": "live.php?channel=sky sports football@sky sports football"
+            }
+        },
+        "match 15": {
+            "league": "french ligue 1",
+            "teams": "\nlyon vs nice \n",
+            "time": "20:00",
+            "channels": {}
+        },
+        "match 16": {
+            "league": "english league cup",
+            "teams": "\nmanchester united vs aston villa \n\n",
+            "time": "20:00",
+            "channels": {
+                "channel 1": "live.php?channel=sky sports football@sky sports football",
+                "channel 2": "live.php?channel=supersports premier league@supersports premier league"
+            }
+        },
+        "match 17": {
+            "league": "spanish la liga",
+            "teams": "\nreal madrid vs cadiz \n\n",
+            "time": "20:30",
+            "channels": {
+                "channel 1": "live.php?channel=supersports laliga@supersports laliga"
+            }
+        },
+        "match 18": {
+            "league": "friendly international",
+            "teams": "\nunited states w vs germany w \n",
+            "time": "00:05",
+            "channels": {}
+        },
+        "match 19": {
+            "league": "australian a league",
+            "teams": "\nadelaide united vs melbourne victory \n",
+            "time": "08:45",
+            "channels": {}
+        },
+        "match 20": {
+            "league": "bundesliga 2",
+            "teams": "\nfortuna dusseldorf vs kaiserslautern \n",
+            "time": "16:30",
+            "channels": {}
+        },
+        "match 21": {
+            "league": "turkish super lig",
+            "teams": "\nankaragucu vs trabzonspor \n",
+            "time": "17:00",
+            "channels": {}
+        },
+        "match 22": {
+            "league": "turkish super lig",
+            "teams": "\nalanyaspor vs adana demirspor \n",
+            "time": "17:00",
+            "channels": {}
+        },
+        "match 23": {
+            "league": "bundesliga 2",
+            "teams": "\nholstein kiel vs hannover 96 \n",
+            "time": "17:30",
+            "channels": {}
+        },
+        "match 24": {
+            "league": "bundesliga 2",
+            "teams": "\nfortuna dusseldorf vs kaiserslautern \n",
+            "time": "17:30",
+            "channels": {}
+        },
+        "match 25": {
+            "league": "eredivisie",
+            "teams": "\ntwente vs sparta rotterdam \n",
+            "time": "19:00",
+            "channels": {}
+        },
+        "match 26": {
+            "league": "1 bundesliga",
+            "teams": "\nmonchengladbach vs borussia dortmund \n",
+            "time": "19:30",
+            "channels": {}
+        },
+        "match 27": {
+            "league": "italian serie a",
+            "teams": "\nempoli vs cremonese \n",
+            "time": "19:45",
+            "channels": {
+                "channel 1": "live.php?channel=supersports football@supersports football"
+            }
+        },
+        "match 28": {
+            "league": "scottish championship",
+            "teams": "\nayr united vs hamilton academical \n",
+            "time": "19:45",
+            "channels": {}
+        },
+        "match 29": {
+            "league": "english championship",
+            "teams": "\nbirmingham city vs sunderland \n",
+            "time": "20:00",
+            "channels": {
+                "channel 1": "live.php?channel=sky sports football@sky sports football"
+            }
+        },
+        "match 30": {
+            "league": "french ligue 1",
+            "teams": "\nlyon vs nice \n",
+            "time": "20:00",
+            "channels": {}
+        }
+    },
+    "cricket": {}
+}

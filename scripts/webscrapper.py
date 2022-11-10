@@ -127,15 +127,17 @@ def save_data():
                print("file not uploaded");
      except:
           logger.critical("failed to save data into file");          
-     
-soup = crawl_site()
-Get_match_channels()
-create_channel_links()
-save_data()
+
+def run_webscrapper():
+     global soup
+     soup = crawl_site()
+     Get_match_channels()
+     create_channel_links()
+     save_data()
    
 
 
-
+run_webscrapper()
 
 
 

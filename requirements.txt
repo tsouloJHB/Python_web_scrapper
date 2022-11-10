@@ -1,0 +1,8 @@
+ftplib
+BeautifulSoup
+requests
+json
+ftptransfer
+logging
+schedule
+time
