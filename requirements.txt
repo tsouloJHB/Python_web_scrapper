@@ -1,7 +1,0 @@
-BeautifulSoup4
-requests
-json
-ftptransfer
-logging
-schedule
-time
