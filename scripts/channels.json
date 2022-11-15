@@ -1,0 +1,144 @@
+{
+    "soccer":{
+        "sky sports main":{
+            "link1":"http://cricfree.live/live/embed/sky-sports-main-event",
+            "link2":"http://cricfree.live/live/embed/link2/sky-sports-main-event",
+            "link3":"http://cricfree.live/live/embed/link3/sky-sports-main-event",
+            "image":"sky-sports-football.png"
+        },
+        "Sky sports epl":{
+            "link1":"http://cricfree.live/live/embed/sky-sports-premier-league",
+            "link2":"http://cricfree.live/live/embed/link2/sky-sports-premier-league",
+            "link3":"http://cricfree.live/live/embed/link3/sky-sports-premier-league",
+            "image":"sky-sports-epl.png"
+        },
+        "sky sports football":{
+            "link1":"http://cricfree.live/live/embed/sky-sports-football",
+            "link2":"http://cricfree.live/live/embed/link2/sky-sports-football",
+            "link3":"",
+            "image":"sky-sports-football.png"
+        },
+        "supersports football":{
+            "link1":"http://cricfree.live/live/embed/supersports-football",
+            "link2":"http://cricfree.live/live/embed/link2/supersports-football",
+            "link3":"http://cricfree.live/live/embed/link3/supersports-football",
+            "image":"supersport-football.png"
+        },
+        "supersports premier league":{
+            "link1":"http://cricfree.live/live/embed/supersports-premier-league",
+            "link2":"http://cricfree.live/live/embed/link2/supersports-premier-league",
+            "link3":"http://cricfree.live/live/embed/link3/supersports-premier-league",
+            "image":"supersport-epl.png"
+        },
+        "supersports laliga":{
+            "link1":"http://cricfree.live/live/embed/supersports-laliga",
+            "link2":"http://cricfree.live/live/embed/link2/supersports-laliga",
+            "link3":"http://cricfree.live/live/embed/link3/supersports-laliga",
+            "image":"supersport-laliga.png"
+        },
+        "supersport psl":{
+            "link1":"http://cricfree.live/live/embed/supersport-psl",
+            "link2":"http://cricfree.live/live/embed/link2/supersport-psl",
+            "link3":"http://cricfree.live/live/embed/link3/supersport-psl",
+            "image":"supersport-psl.png"
+        },
+        "bein sports1 english":{
+            "link1":"http://cricfree.live/live/embed/bein-sports-1-english",
+            "link2":"http://cricfree.live/live/embed/bein-sports-1-english",
+            "link3":"http://cricfree.live/live/embed/bein-sports-1-english",
+            "image":"bein-sports1.png"
+        },
+        "bein sports2 english":{
+            "link1":"http://cricfree.live/live/embed/bein-sports-2-english",
+            "link2":"http://cricfree.live/live/embed/bein-sports-2-english",
+            "link3":"http://cricfree.live/live/embed/bein-sports-2-english",
+            "image":"bein-sports2.png"
+        },
+        "bein sports3 english":{
+            "link1":"http://cricfree.live/live/embed/bein-sports-3-english",
+            "link2":"http://cricfree.live/live/embed/bein-sports-3-english",
+            "link3":"http://cricfree.live/live/embed/bein-sports-3-english",
+            "image":"bein-sports3.png"
+        },
+        "bein sports 1 premium":{
+            "link1":"http://cricfree.live/live/embed/bein-sports-1-premium",
+            "link2":"http://cricfree.live/live/embed/bein-sports-1-premium",
+            "link3":"http://cricfree.live/live/embed/bein-sports-1-premium",
+            "image":"Channel.png"
+        },
+        "bein sports 2 premium":{
+            "link1":"http://cricfree.live/live/embed/bein-sports-2-premium",
+            "link2":"http://cricfree.live/live/embed/bein-sports-2-premium",
+            "link3":"http://cricfree.live/live/embed/bein-sports-2-premium",
+            "image":"Channel.png"
+        },
+        "bein sports 3 premium":{
+            "link1":"http://cricfree.live/live/embed/bein-sports-3-premium",
+            "link2":"http://cricfree.live/live/embed/bein-sports-3-premium",
+            "link3":"http://cricfree.live/live/embed/bein-sports-3-premium",
+            "image":"Channel.png"
+        },
+        "bt sport 1":{
+            "link1":"http://cricfree.live/live/embed/bt-sport-1",
+            "link2":"http://cricfree.live/live/embed/link2/bt-sport-1",
+            "link3":"http://cricfree.live/live/embed/link3/bt-sport-1",
+            "image":"Channel.png"
+        },
+        "bt sport 2":{
+            "link1":"http://cricfree.live/live/embed/bt-sport-2",
+            "link2":"http://cricfree.live/live/embed/link2/bt-sport-2",
+            "link3":"http://cricfree.live/live/embed/link3/bt-sport-2",
+            "image":"Channel.png"
+        },
+        "bt sport 3":{
+            "link1":"http://cricfree.live/live/embed/bt-sport-3",
+            "link2":"http://cricfree.live/live/embed/link2/bt-sport-3",
+            "link3":"http://cricfree.live/live/embed/link3/bt-sport-3",
+            "image":"Channel.png"
+        },
+        "bt sport 4":{
+            "link1":"http://cricfree.live/live/embed/bt-sport-4",
+            "link2":"http://cricfree.live/live/embed/link2/bt-sport-4",
+            "link3":"http://cricfree.live/live/embed/link3/bt-sport-4",
+            "image":"Channel.png"
+        },
+        "sport tv 1":{
+            "link1":"http://cricfree.live/live/embed/sport-tv-1",
+            "link2":"http://cricfree.live/live/embed/link2/sport-tv-1",
+            "link3":"http://cricfree.live/live/embed/link2/sport-tv-1",
+            "image":"Channel.png"
+        },
+        "epl 2":{
+            "link1":"http://cricfree.live/live/embed/epl-2",
+            "link2":"http://cricfree.live/live/embed/link2/epl-2",
+            "link3":"http://cricfree.live/live/embed/link2/epl-2",
+            "image":"Channel.png"
+        }
+        
+
+    },
+    "cricket":{
+        "sky sports cricket":{
+            "link1":"http://cricfree.live/live/embed/sky-sports-cricket",
+            "link2":"http://cricfree.live/live/embed/link2/sky-sports-cricket",
+            "link3":"http://cricfree.live/live/embed/link3/sky-sports-cricket",
+            "image":"sky-sports-cricket.png"
+        }
+    },
+    "rugby":{
+        "supersports rugby":{
+            "link1":"http://cricfree.live/live/embed/supersports-rugby",
+            "link2":"http://cricfree.live/live/embed/link2/supersports-rugby",
+            "link3":"http://cricfree.live/live/embed/link3/supersports-rugby",
+            "image":"supersport-rugby.png"
+        }
+    },
+    "tennis":{
+        "sk2 hd":{
+            "link1":"http://cricfree.live/live/embed/stream-102",
+            "link2":"http://cricfree.live/live/embed/link2/stream-102",
+            "link3":"http://cricfree.live/live/embed/link3/stream-102",
+            "image":"sk2_hd.png"
+        }
+    }
+}
