@@ -1,0 +1,19 @@
+DEBUG 2022-11-18 17:24:41,943 - Starting new HTTPS connection (1): watch.cricfree.io:443
+DEBUG 2022-11-18 17:24:42,956 - https://watch.cricfree.io:443 "GET /category/football HTTP/1.1" 200 None
+DEBUG 2022-11-18 17:24:43,245 - page fetched
+DEBUG 2022-11-18 17:24:43,267 - html values found
+DEBUG 2022-11-18 17:24:43,267 - html values found
+DEBUG 2022-11-18 17:24:43,267 - html values found
+DEBUG 2022-11-18 17:24:43,267 - html values found
+DEBUG 2022-11-18 17:24:43,267 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,269 - html values found
+DEBUG 2022-11-18 17:24:43,271 - saving json data
