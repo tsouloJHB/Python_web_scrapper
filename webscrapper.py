@@ -95,7 +95,6 @@ def create_channel_links():
 
 def save_data():
      global match_list
-     f = open('tvguide.json')
      json_data = []
      json_data = {'soccer':{}, 'cricket':{}}
 
@@ -120,11 +119,14 @@ def save_data():
      try:
           with open("tvguide.json", "w") as outfile:
                outfile.write(json_object) 
+          print(json_object)
+          json_object = {}
+          reset_global_values()     
           #upload file to the sever     
-          if(ftptransfer.upload()):
-               print("file uploaded")
-          else:
-               print("file not uploaded");
+          # if(ftptransfer.upload()):
+          #      print("file uploaded")
+          # else:
+          #      print("file not uploaded");
      except:
           logger.critical("failed to save data into file");          
 
@@ -136,7 +138,15 @@ def run_webscrapper():
      save_data()
    
 
+def reset_global_values():
+     global soup
+     global match_list 
+     global channel_list_data
 
+     match_list = []; #holds all matches     
+     channel_list_data = []
+     soup = "";
+     
 run_webscrapper()
 
 

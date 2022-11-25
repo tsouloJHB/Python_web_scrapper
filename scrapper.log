@@ -1,19 +1,50 @@
-DEBUG 2022-11-18 17:24:41,943 - Starting new HTTPS connection (1): watch.cricfree.io:443
-DEBUG 2022-11-18 17:24:42,956 - https://watch.cricfree.io:443 "GET /category/football HTTP/1.1" 200 None
-DEBUG 2022-11-18 17:24:43,245 - page fetched
-DEBUG 2022-11-18 17:24:43,267 - html values found
-DEBUG 2022-11-18 17:24:43,267 - html values found
-DEBUG 2022-11-18 17:24:43,267 - html values found
-DEBUG 2022-11-18 17:24:43,267 - html values found
-DEBUG 2022-11-18 17:24:43,267 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,269 - html values found
-DEBUG 2022-11-18 17:24:43,271 - saving json data
+DEBUG 2022-11-25 14:47:26,776 - Starting new HTTPS connection (1): watch.cricfree.io:443
+DEBUG 2022-11-25 14:47:27,783 - https://watch.cricfree.io:443 "GET /category/football HTTP/1.1" 200 None
+DEBUG 2022-11-25 14:47:28,073 - page fetched
+DEBUG 2022-11-25 14:47:28,098 - html values found
+DEBUG 2022-11-25 14:47:28,098 - html values found
+DEBUG 2022-11-25 14:47:28,098 - html values found
+DEBUG 2022-11-25 14:47:28,098 - html values found
+DEBUG 2022-11-25 14:47:28,099 - html values found
+DEBUG 2022-11-25 14:47:28,099 - html values found
+DEBUG 2022-11-25 14:47:28,099 - html values found
+DEBUG 2022-11-25 14:47:28,099 - html values found
+DEBUG 2022-11-25 14:47:28,100 - html values found
+DEBUG 2022-11-25 14:47:28,100 - html values found
+DEBUG 2022-11-25 14:47:28,100 - html values found
+DEBUG 2022-11-25 14:47:28,100 - html values found
+DEBUG 2022-11-25 14:47:28,100 - saving json data
+DEBUG 2022-11-25 14:48:28,741 - Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG 2022-11-25 14:48:28,744 - Starting new HTTPS connection (1): watch.cricfree.io:443
+DEBUG 2022-11-25 14:48:29,691 - https://watch.cricfree.io:443 "GET /category/football HTTP/1.1" 200 None
+DEBUG 2022-11-25 14:48:29,974 - page fetched
+DEBUG 2022-11-25 14:48:29,988 - html values found
+DEBUG 2022-11-25 14:48:29,989 - html values found
+DEBUG 2022-11-25 14:48:29,989 - html values found
+DEBUG 2022-11-25 14:48:29,989 - html values found
+DEBUG 2022-11-25 14:48:29,990 - html values found
+DEBUG 2022-11-25 14:48:29,990 - html values found
+DEBUG 2022-11-25 14:48:29,990 - html values found
+DEBUG 2022-11-25 14:48:29,990 - html values found
+DEBUG 2022-11-25 14:48:29,990 - html values found
+DEBUG 2022-11-25 14:48:29,991 - html values found
+DEBUG 2022-11-25 14:48:29,991 - html values found
+DEBUG 2022-11-25 14:48:29,991 - html values found
+DEBUG 2022-11-25 14:48:29,991 - saving json data
+DEBUG 2022-11-25 14:49:30,641 - Running job Job(interval=1, unit=minutes, do=job, args=(), kwargs={})
+DEBUG 2022-11-25 14:49:30,648 - Starting new HTTPS connection (1): watch.cricfree.io:443
+DEBUG 2022-11-25 14:49:31,613 - https://watch.cricfree.io:443 "GET /category/football HTTP/1.1" 200 None
+DEBUG 2022-11-25 14:49:31,881 - page fetched
+DEBUG 2022-11-25 14:49:31,898 - html values found
+DEBUG 2022-11-25 14:49:31,898 - html values found
+DEBUG 2022-11-25 14:49:31,898 - html values found
+DEBUG 2022-11-25 14:49:31,898 - html values found
+DEBUG 2022-11-25 14:49:31,899 - html values found
+DEBUG 2022-11-25 14:49:31,899 - html values found
+DEBUG 2022-11-25 14:49:31,899 - html values found
+DEBUG 2022-11-25 14:49:31,899 - html values found
+DEBUG 2022-11-25 14:49:31,900 - html values found
+DEBUG 2022-11-25 14:49:31,900 - html values found
+DEBUG 2022-11-25 14:49:31,900 - html values found
+DEBUG 2022-11-25 14:49:31,900 - html values found
+DEBUG 2022-11-25 14:49:31,900 - saving json data

@@ -1,108 +1,115 @@
 {
     "soccer": {
         "match 1": {
-            "league": "dutch eerste divisie",
-            "teams": "\nfc eindhoven vs telstar \n",
-            "time": "17:45",
+            "league": "world cup matchday",
+            "teams": "\na look ahead at todays fifa word cup games and all the latest news from qatar \n\n",
+            "time": "10:00",
             "channels": {}
         },
         "match 2": {
-            "league": "polish ekstraklasa",
-            "teams": "\nlechia gdansk vs gornik zabrze \n",
-            "time": "19:30",
-            "channels": {}
+            "league": "fifa world cup 2022",
+            "teams": "\nqatar vs senegal \n",
+            "time": "13:00",
+            "channels": {
+                "channel 1": "live.php?channel=bbc one@bbc one",
+                "channel 2": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 3": "live.php?channel=bein sports 1 fr@bein sports 1 fr",
+                "channel 4": "live.php?channel=sport tv 1@sport tv 1"
+            }
         },
         "match 3": {
-            "league": "england league one",
-            "teams": "\nportsmouth vs derby county \n",
-            "time": "20:00",
+            "league": "fifa world cup 2022",
+            "teams": "\nnetherlands vs ecuador \n",
+            "time": "16:00",
             "channels": {
-                "channel 1": "live.php?channel=sky sports football@sky sports football",
-                "channel 2": "live.php?channel=sky sports main event@sky sports main event",
-                "channel 3": "live.php?channel=bein sports 2 premium@bein sports 2 premium"
+                "channel 1": "live.php?channel=supersports football@supersports football",
+                "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr",
+                "channel 3": "live.php?channel=sport tv 1@sport tv 1"
             }
         },
         "match 4": {
-            "league": "spanish la liga 2",
-            "teams": "\ngranada vs albacete \n",
-            "time": "20:00",
-            "channels": {}
+            "league": "fifa world cup 2022",
+            "teams": "\nengland vs united states \n",
+            "time": "19:00",
+            "channels": {
+                "channel 1": "live.php?channel=bein sports 1 fr@bein sports 1 fr",
+                "channel 2": "live.php?channel=sport tv 1@sport tv 1"
+            }
         },
         "match 5": {
-            "league": "dutch eerste divisie",
-            "teams": "\nhelmond sport vs de graafschap \n",
-            "time": "20:00",
-            "channels": {}
+            "league": "fifa world cup 2022",
+            "teams": "\ntunisia vs australia \n",
+            "time": "10:00",
+            "channels": {
+                "channel 1": "live.php?channel=bbc one@bbc one",
+                "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
+            }
         },
         "match 6": {
-            "league": "england league one",
-            "teams": "\nexeter city vs ipswich town \n",
-            "time": "12:00",
+            "league": "fifa world cup 2022",
+            "teams": "\npoland vs saudi arabia \n",
+            "time": "13:00",
             "channels": {
-                "channel 1": "live.php?channel=sky sports football@sky sports football",
-                "channel 2": "live.php?channel=sky sports main event@sky sports main event"
+                "channel 1": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
         "match 7": {
-            "league": "english women super league",
-            "teams": "\nmanchester city w vs everton w \n",
-            "time": "15:00",
+            "league": "fifa world cup 2022",
+            "teams": "\nfrance vs denmark \n",
+            "time": "16:00",
             "channels": {
-                "channel 1": "live.php?channel=sky sports football@sky sports football",
-                "channel 2": "live.php?channel=sky sports main event@sky sports main event"
+                "channel 1": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
         "match 8": {
-            "league": "english national league",
-            "teams": "\nsolihull moors vs chesterfield \n",
-            "time": "15:00",
+            "league": "fifa world cup 2022",
+            "teams": "\nargentina vs mexico \n",
+            "time": "19:00",
             "channels": {
-                "channel 1": "live.php?channel=bt sport 1@bt sport 1"
+                "channel 1": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
         "match 9": {
-            "league": "england league one",
-            "teams": "\nburton albion vs plymouth argyle \n",
-            "time": "15:00",
+            "league": "fifa world cup 2022",
+            "teams": "\njapan vs costa rica \n",
+            "time": "10:00",
             "channels": {
-                "channel 1": "live.php?channel=bein sports 2 premium@bein sports 2 premium"
+                "channel 1": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
         "match 10": {
-            "league": "scottish championship",
-            "teams": "\npartick thistle vs arbroath \n",
-            "time": "15:00",
-            "channels": {}
+            "league": "fifa world cup 2022",
+            "teams": "\nbelgium vs morocco \n",
+            "time": "13:00",
+            "channels": {
+                "channel 1": "live.php?channel=bbc one@bbc one",
+                "channel 2": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 3": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
+            }
         },
         "match 11": {
-            "league": "england league one",
-            "teams": "\nbarnsley vs milton keynes dons \n",
-            "time": "15:00",
-            "channels": {}
+            "league": "fifa world cup 2022",
+            "teams": "\ncroatia vs canada \n",
+            "time": "16:00",
+            "channels": {
+                "channel 1": "live.php?channel=bbc one@bbc one",
+                "channel 2": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 3": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
+            }
         },
         "match 12": {
-            "league": "england league one",
-            "teams": "\nport vale vs charlton athletic \n",
-            "time": "15:00",
-            "channels": {}
-        },
-        "match 13": {
-            "league": "england league one",
-            "teams": "\noxford united vs forest green \n",
-            "time": "15:00",
-            "channels": {}
-        },
-        "match 14": {
-            "league": "england league one",
-            "teams": "\nfleetwood town vs bolton wanderers \n",
-            "time": "15:00",
-            "channels": {}
-        },
-        "match 15": {
             "league": "fifa world cup 2022",
-            "teams": "\nqatar vs ecuador \n",
-            "time": "16:00",
-            "channels": {}
+            "teams": "\nspain vs germany \n",
+            "time": "19:00",
+            "channels": {
+                "channel 1": "live.php?channel=bbc one@bbc one",
+                "channel 2": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
+                "channel 3": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
+            }
         }
     },
     "cricket": {}

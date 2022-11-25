@@ -113,6 +113,24 @@
             "link2":"http://cricfree.live/live/embed/link2/epl-2",
             "link3":"http://cricfree.live/live/embed/link2/epl-2",
             "image":"Channel.png"
+        },
+        "bbc one":{
+            "link1":"http://cricfree.live/live/embed/bbc-one",
+            "link2":"http://cricfree.live/live/embed/link2/bbc-one",
+            "link3":"http://cricfree.live/live/embed/link3/bbc-one",
+            "image":"Channel.png"
+        },
+        "fox sports 1 usa":{
+            "link1":"http://cricfree.live/live/embed/fox-sports-1-usa",
+            "link2":"http://cricfree.live/live/embed/link2/fox-sports-1-usa",
+            "link3":"http://cricfree.live/live/embed/link2/fox-sports-1-usa",
+            "image":"Channel.png"
+        },
+        "bein sports 1 fr":{
+            "link1":"http://cricfree.live/live/embed/bein-sports-1-fr",
+            "link2":"http://cricfree.live/live/embed/bein-sports-1-fr",
+            "link3":"http://cricfree.live/live/embed/bein-sports-1-fr",
+            "image":"Channel.png"
         }
         
 
