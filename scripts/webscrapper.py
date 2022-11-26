@@ -119,14 +119,14 @@ def save_data():
      try:
           with open("tvguide.json", "w") as outfile:
                outfile.write(json_object) 
-          print(json_object)
           json_object = {}
-          reset_global_values()     
-          #upload file to the sever     
-          # if(ftptransfer.upload()):
-          #      print("file uploaded")
-          # else:
-          #      print("file not uploaded");
+              
+          # upload file to the sever     
+          if(ftptransfer.upload()):
+               print("file uploaded")
+          else:
+               print("file not uploaded");
+          reset_global_values() 
      except:
           logger.critical("failed to save data into file");          
 

@@ -1,42 +1,14 @@
 {
     "soccer": {
         "match 1": {
-            "league": "world cup matchday",
-            "teams": "\na look ahead at todays fifa word cup games and all the latest news from qatar \n\n",
-            "time": "10:00",
-            "channels": {}
+            "league": "motd fifa world cup 2022 highlights",
+            "teams": "\nhighlights of all todays matches, with analysis, news and updates of the group tables \n\n",
+            "time": "23:30",
+            "channels": {
+                "channel 1": "live.php?channel=bbc one@bbc one"
+            }
         },
         "match 2": {
-            "league": "fifa world cup 2022",
-            "teams": "\nqatar vs senegal \n",
-            "time": "13:00",
-            "channels": {
-                "channel 1": "live.php?channel=bbc one@bbc one",
-                "channel 2": "live.php?channel=fox sports 1 usa@fox sports 1 usa",
-                "channel 3": "live.php?channel=bein sports 1 fr@bein sports 1 fr",
-                "channel 4": "live.php?channel=sport tv 1@sport tv 1"
-            }
-        },
-        "match 3": {
-            "league": "fifa world cup 2022",
-            "teams": "\nnetherlands vs ecuador \n",
-            "time": "16:00",
-            "channels": {
-                "channel 1": "live.php?channel=supersports football@supersports football",
-                "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr",
-                "channel 3": "live.php?channel=sport tv 1@sport tv 1"
-            }
-        },
-        "match 4": {
-            "league": "fifa world cup 2022",
-            "teams": "\nengland vs united states \n",
-            "time": "19:00",
-            "channels": {
-                "channel 1": "live.php?channel=bein sports 1 fr@bein sports 1 fr",
-                "channel 2": "live.php?channel=sport tv 1@sport tv 1"
-            }
-        },
-        "match 5": {
             "league": "fifa world cup 2022",
             "teams": "\ntunisia vs australia \n",
             "time": "10:00",
@@ -45,7 +17,7 @@
                 "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
-        "match 6": {
+        "match 3": {
             "league": "fifa world cup 2022",
             "teams": "\npoland vs saudi arabia \n",
             "time": "13:00",
@@ -54,7 +26,7 @@
                 "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
-        "match 7": {
+        "match 4": {
             "league": "fifa world cup 2022",
             "teams": "\nfrance vs denmark \n",
             "time": "16:00",
@@ -63,7 +35,7 @@
                 "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
-        "match 8": {
+        "match 5": {
             "league": "fifa world cup 2022",
             "teams": "\nargentina vs mexico \n",
             "time": "19:00",
@@ -72,7 +44,7 @@
                 "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
-        "match 9": {
+        "match 6": {
             "league": "fifa world cup 2022",
             "teams": "\njapan vs costa rica \n",
             "time": "10:00",
@@ -81,7 +53,7 @@
                 "channel 2": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
-        "match 10": {
+        "match 7": {
             "league": "fifa world cup 2022",
             "teams": "\nbelgium vs morocco \n",
             "time": "13:00",
@@ -91,7 +63,7 @@
                 "channel 3": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
-        "match 11": {
+        "match 8": {
             "league": "fifa world cup 2022",
             "teams": "\ncroatia vs canada \n",
             "time": "16:00",
@@ -101,7 +73,7 @@
                 "channel 3": "live.php?channel=bein sports 1 fr@bein sports 1 fr"
             }
         },
-        "match 12": {
+        "match 9": {
             "league": "fifa world cup 2022",
             "teams": "\nspain vs germany \n",
             "time": "19:00",
